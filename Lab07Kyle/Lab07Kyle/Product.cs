@@ -24,7 +24,7 @@ namespace Lab07Kyle
         steel,
     }
 
-    enum Blade : int
+    enum Blade : int // setting the enumerator for selecting blade length
     {
         inches_twenty = 1,
         inches_twentfour,

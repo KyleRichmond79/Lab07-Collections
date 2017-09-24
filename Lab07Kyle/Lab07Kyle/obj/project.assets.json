@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyler\\source\\repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\Lab07Kyle.csproj",
+      "projectUniqueName": "C:\\Users\\Kyler\\Source\\Repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\Lab07Kyle.csproj",
       "projectName": "Lab07Kyle",
-      "projectPath": "C:\\Users\\Kyler\\source\\repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\Lab07Kyle.csproj",
+      "projectPath": "C:\\Users\\Kyler\\Source\\Repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\Lab07Kyle.csproj",
       "packagesPath": "C:\\Users\\Kyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyler\\source\\repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\obj\\",
+      "outputPath": "C:\\Users\\Kyler\\Source\\Repos\\Lab07-Collections\\Lab07Kyle\\Lab07Kyle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
