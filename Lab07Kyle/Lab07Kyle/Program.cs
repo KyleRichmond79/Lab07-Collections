@@ -22,6 +22,7 @@ namespace Lab07Kyle
             InventoryList.Add(new Product { ProductBladeLength = Blade.inches_twentfour });
             InventoryList.Add(new Product { ProductBladeLength = Blade.inches_thirty });
             InventoryList.Add(new Product { ProductBladeLength = Blade.inches_forty });
+            InventoryList.Remove(product);
 
             foreach (Product p in InventoryList)
             {
